@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\radar.js">
+    <Files>
+      <File FileName="Assets\Scripts\radar.js" Line="3" Column="25" />
+      <File FileName="Assets\Scripts\flock.js" Line="5" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WaveControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Monster\scripts\footsounds.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\flocking.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
